@@ -1,0 +1,54 @@
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+	z-index: 0 ;
+    background-image: url(dom.jpg);
+    background-size: cover;
+	background-repeat: no-repeat;
+}
+
+nav {
+	margin-bottom: none;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #FFDEAD;
+}
+
+h1 {
+	font-size: 35px;
+}
+
+p {
+	font-size: 16px;
+	z-index: 1;
+}
+
+pre {
+	margin-left: 20px;
+}
+
+main {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #FFDEAD;
+	text-align: left;
+	margin-top: 20px;
+	margin-right: 20px;
+	padding-left: 20px;
+    width: 98.5%;
+}
+
+a:link {
+	color: #FFDEAD;
+	text-decoration: none;
+}
+
+a:visited {
+	color:#CD6839;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #FFFACD;
+	text-decoration: none;
+}
+
+
+ 
