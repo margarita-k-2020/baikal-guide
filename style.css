@@ -1,0 +1,59 @@
+img {
+	height: 50px;
+	opacity: 0.5;	
+	margin-right: 20px;
+}
+body {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: #143B50;
+  background-color: black;
+  z-index: 0 ;
+  background-image: url(lake.jpg);
+}
+
+h1 {
+	font-size: 40px;
+    margin-right: 20px;
+}
+
+p {
+	font-size: 25px;
+	font-weight: bold;
+	z-index: 1;
+	margin-right: 20px;
+}
+
+main {
+    background-color: #104E8B;
+	color: white;
+	opacity: 0.7; 
+  
+	width: 100%;
+	text-align: right;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+
+nav {
+	margin-bottom: none;
+	opacity: 0.7; 
+	background-color: #104E8B;
+	color: white;
+}
+
+a:link {
+	color: white;
+	text-decoration: none;
+}
+
+a:visited {
+	color:#66CDAA;
+	text-decoration: none;
+}
+
+a:hover {
+	color: aquamarine;
+	text-decoration: none;
+}
+
+ 
